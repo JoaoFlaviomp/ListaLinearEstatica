@@ -1,0 +1,2 @@
+# ListaLinearEstatica
+ Linear Estatica
